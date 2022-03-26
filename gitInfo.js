@@ -11,7 +11,7 @@
 
 //CODE HERE
 let gitDefinition =
-  'Git is a program used to track changes to code in projects, it helps prevent bugs and loss of work/progress, and view the history of the project through snapshots';
+  'Git is a version controll program used to track changes to code in projects, it helps prevent bugs and loss of work/progress, and view the history of the project through snapshots';
 
 //////////////////PROBLEM 2////////////////////
 /*
